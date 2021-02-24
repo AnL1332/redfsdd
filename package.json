@@ -1,0 +1,21 @@
+{
+  "name": "welcome-set-embed",
+  "version": "0.0.1",
+  "description": "simple welcome set embed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "welcome-set-embed"
+  ]
+}
